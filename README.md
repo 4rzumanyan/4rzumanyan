@@ -8,13 +8,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
 </h1>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/hrant-arz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
 ### :man_technologist: About Me :        
 
 I am an Android Developer from Armenia.
@@ -25,7 +18,7 @@ I am an Android Developer from Armenia.
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrant-arz/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm)
     
 
 
