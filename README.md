@@ -14,11 +14,11 @@ I am an Android Developer from Armenia.
 
 - :telescope: I’m working as a Software Developer and contributing to Android Development for building mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Dedicated to staying updated with the latest trends and advancements in the Android development ecosystem.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
     
 
 
