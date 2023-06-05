@@ -6,8 +6,9 @@
 <h1 align="center">
   Hello World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hrant-arz/) 
 </h1>
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hrant-arz/) 
+
 
 ### :man_technologist: About Me :        
 
