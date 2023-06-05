@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
 </h1>
 
-<h4 align="start">
+<h4>
   As an Android developer, I possess extensive expertise in Kotlin, Java, C, and C++ programming languages, allowing me to create robust and efficient mobile applications. With a solid understanding of these languages, I am able to leverage their unique features and capabilities to develop high-quality Android solutions.<br/>
 I am dedicated to staying updated with the latest trends and advancements in the Android development ecosystem. With my expertise and passion for mobile app development, I am committed to delivering exceptional Android applications that meet your requirements and exceed expectations. Let's connect and discuss how we can work together to bring your Android project to life.
   </h4>
