@@ -12,7 +12,7 @@
 
 I am an Android Developer from Armenia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to Android Development for building mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
