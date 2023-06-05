@@ -5,7 +5,7 @@
 
 <h1 align="center">
   Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, <br/> I'm Hrant Arzumanyan
 </h1>
 
 ### :man_technologist: About Me :        
