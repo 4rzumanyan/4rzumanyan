@@ -3,13 +3,7 @@
  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhjNGU2M2Y4MDQyMmMxMmMyNjg3NzI1NDliNThkMmJkYzA5MjUwZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/odVbO24KadWZvBmcOi/giphy.gif" width="100%"/>
 </div>
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-       <style>
-  p{
-    display:flex;
-  }
-</style>
+
 <h1 align="center">
   Hello World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
@@ -39,9 +33,10 @@ I am an Android Developer from Armenia.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>&nbsp
 </div>
-     </foreignObject>
-</svg>
 
+<div align="center">
+    <img src="readme.svg" width="100%" alt="css-in-readme">
+</div>
 
 
     
