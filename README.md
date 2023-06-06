@@ -19,7 +19,7 @@ I am an Android Developer from Armenia.
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- <span style="line-height:2">:mailbox: How to reach me:</span> &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrant-arz/)
+- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrant-arz/)
 
 ---
 
@@ -32,10 +32,6 @@ I am an Android Developer from Armenia.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="47" height="47"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>&nbsp
-</div>
-
-<div align="center">
-    <img src="readme.svg" width="100%" alt="css-in-readme">
 </div>
 
 
