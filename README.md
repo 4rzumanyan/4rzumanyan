@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
 </h1>
 
-### :man_technologist: About Me:        
+### :man_technologist: About Me :        
 
 I am an Android Developer from Armenia.
 
@@ -23,7 +23,7 @@ I am an Android Developer from Armenia.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
