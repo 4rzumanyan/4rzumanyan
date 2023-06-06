@@ -1,14 +1,15 @@
 
 <div id="header" align="center">
-  <style>
-  p{
-    display:flex;
-  }
-</style>
+ 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhjNGU2M2Y4MDQyMmMxMmMyNjg3NzI1NDliNThkMmJkYzA5MjUwZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/odVbO24KadWZvBmcOi/giphy.gif" width="100%"/>
 </div>
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
+       <style>
+  p{
+    display:flex;
+  }
+</style>
 <h1 align="center">
   Hello World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hrant Arzumanyan
