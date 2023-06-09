@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  
-  <img src="https://cloud.mail.ru/public/kB7T/NhkNWZEcX" width="100%"/>
+  <img src="https://imgur.com/a/R1p129z" width="100%"/>
 </div>
 
 <h1 align="center">
