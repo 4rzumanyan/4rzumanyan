@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  
-  <img src="s.imgur.com/min/embed.js" width="100%"/>
+  <img src="https://drive.google.com/file/d/1DOSzzW-hzhNCEm2i1JccMpg6_G6L9PSG/view?usp=sharing" width="100%"/>
 </div>
 
 <h1 align="center">
