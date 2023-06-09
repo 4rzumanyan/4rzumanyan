@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  
-  <img src="https://github.com/4rzumanyan/4rzumanyan/blob/main/android.gif" width="100%"/>
+  <img src="https://cloud.mail.ru/public/kB7T/NhkNWZEcX" width="100%"/>
 </div>
 
 <h1 align="center">
