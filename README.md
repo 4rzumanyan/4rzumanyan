@@ -34,8 +34,9 @@ I am an Android Developer from Armenia.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>&nbsp
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&mode=weekly)](https://git.io/streak-stats)
+---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&mode=weekly&background=090D13)](https://git.io/streak-stats)
 
     
 
