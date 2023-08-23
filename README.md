@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ### :man_technologist: About Me :        
 
 I am an Android Developer from Armenia.
