@@ -36,7 +36,7 @@ I am an Android Developer from Armenia.
 
 ---
 
-### :chart_with_upwards_trend: Stats :      
+### :bar_chart: Stats :      
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats)
 
