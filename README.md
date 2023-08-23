@@ -4,11 +4,10 @@
   <img src="https://github.com/4rzumanyan/4rzumanyan/blob/main/android.gif" width="100%"/>
 </div>
 
-<p align="center">
+<h1 align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=E6EDF3&size=22&center=true&lines=Hello,+World+!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile"></a>
-</p>
+</h1>
 
----
 ### :man_technologist: About Me :        
 
 I am an Android Developer from Armenia.
