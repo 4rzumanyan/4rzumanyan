@@ -1,9 +1,4 @@
 
-<div id="header" align="center">
- 
-  <img src="https://github.com/4rzumanyan/4rzumanyan/blob/main/android.gif" width="100%"/>
-</div>
-
 <h1 align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=E6EDF3&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile"></a>
 </h1>
