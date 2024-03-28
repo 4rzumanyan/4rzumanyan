@@ -38,10 +38,11 @@ I am an Android Developer from Armenia.
 
 [![GitHub Streak]
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=4rzumanyan&theme=default&hide_border=true&mode=weekly&background=0D1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117">
-  <img src="https://streak-stats.demolab.com?user=4rzumanyan&theme=default&hide_border=true&mode=weekly&background=0D1117" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117" alt="GitHub Streak">
 </picture>
+(https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats)
 
     
 
