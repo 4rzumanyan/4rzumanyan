@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile"></a>
+  <a href="#"> <source media="(prefers-color-scheme: dark)" img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile"></a>
 </p>
 
 ### :man_technologist: About Me :        
