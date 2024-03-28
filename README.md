@@ -1,9 +1,5 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=000000&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile" alt="Typing SVG">
-</picture>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=22&center=true&lines=Hello,+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile"></a>
 </p>
 
 ### :man_technologist: About Me :        
