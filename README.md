@@ -41,6 +41,8 @@ I am an Android Developer from Armenia.
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=4rzumanyan&theme=default&hide_border=true&mode=weekly">
   <img src="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117" alt="GitHub Streak">
 </picture>
+
+[![My Medium story](@codescaptain&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@4rzumanyan&index=1&source=medium)](#)
     
 
 
