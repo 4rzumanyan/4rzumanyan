@@ -44,7 +44,7 @@ I am an Android Developer from Armenia.
 
 ---
 
-### 📝: Medium Articles :      
+### :pencil: Medium Articles :      
 
 [![Image Alt Text](https://git-readme-medium.vercel.app/?username=4rzumanyan&theme=transparent)](https://medium.com/@4rzumanyan/)
 
