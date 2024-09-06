@@ -46,13 +46,7 @@ I am an Android Developer from Armenia.
 
 ### :bar_chart: Medium Articles :   
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@codescaptain&index=1&source=medium?font=Ubuntu&color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=000000&size=22&center=true&lines=Hello+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile">
-  <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFFFFF&size=22&center=true&lines=Hello+World!;I'm+Hrant+Arzumanyan;Welcome+to+my+GitHub+profile" alt="Typing SVG">
-</picture>
-
-[![My Medium story](@codescaptain&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@codescaptain&index=1&source=medium)](#)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=4rzumanyan&limit=2&bg=red&text=green)](https://medium.com/@4rzumanyan)
 
 
 <!--
