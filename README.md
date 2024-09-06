@@ -42,8 +42,7 @@ I am an Android Developer from Armenia.
   <img src="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117" alt="GitHub Streak">
 </picture>    
 
- [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=4rzumanyan)
-
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`4rzumanyan`"/>
 
 <!--
 **4rzumanyan/4rzumanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
