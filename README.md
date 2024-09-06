@@ -46,7 +46,7 @@ I am an Android Developer from Armenia.
 
 ### :bar_chart: Medium Articles :   
 
- [Medium](https://github-read-medium-git-main.4rzumanyan.vercel.app/latest?username=4rzumanyan)
+ [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=4rzumanyan)
 
 
 <!--
