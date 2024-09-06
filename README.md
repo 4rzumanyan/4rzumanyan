@@ -48,7 +48,7 @@ I am an Android Developer from Armenia.
 
 <img src="https://git-readme-medium.vercel.app/?username=4rzumanyan?theme=transparent"/>
 
- [Medium](https://git-readme-medium.vercel.app/latest/?username=4rzumanyan)
+ [Medium](https://git-readme-medium.vercel.app/?username=4rzumanyan)
 
 
 <!--
