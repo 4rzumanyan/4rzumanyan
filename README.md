@@ -44,10 +44,9 @@ I am an Android Developer from Armenia.
 
 ---
 
-### :bar_chart: Medium Articles :      
+### 📝: Medium Articles :      
 
 [![Image Alt Text](https://git-readme-medium.vercel.app/?username=4rzumanyan&theme=transparent)](https://medium.com/@4rzumanyan/)
-
 
 <!--
 **4rzumanyan/4rzumanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
