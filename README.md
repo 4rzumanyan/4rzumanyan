@@ -42,7 +42,13 @@ I am an Android Developer from Armenia.
   <img src="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117" alt="GitHub Streak">
 </picture>    
 
+---
+
+### :bar_chart: Medium Articles :      
+
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@4rzumanyan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@4rzumanyan/0" alt="Recent Article 0">
+
+ [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=4rzumanyan)](https://medium.com/@4rzumanyan)
 
 
 <!--
