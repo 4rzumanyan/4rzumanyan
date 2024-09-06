@@ -46,8 +46,7 @@ I am an Android Developer from Armenia.
 
 ### :bar_chart: Medium Articles :   
 
-[![My Medium story](@4rzumanyan&index=0)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@4rzumanyan&index=0&source=medium)](#)
-
+[![My Medium story](@codescaptain&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@codescaptain&index=1&source=medium)](#)
 
 
 <!--
