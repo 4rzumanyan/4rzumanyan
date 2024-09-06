@@ -46,8 +46,7 @@ I am an Android Developer from Armenia.
 
 ### :bar_chart: Medium Articles :   
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=4rzumanyan"/>
-
+[![Omid Nikrah Medium](https://github-readme-medium-o9tksftkm-4rzumanyans-projects.vercel.app/?username=omidnikrah&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@omidnikrah)
 <!--
 **4rzumanyan/4rzumanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
