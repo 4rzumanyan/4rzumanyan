@@ -46,7 +46,7 @@ I am an Android Developer from Armenia.
 
 ### :bar_chart: Medium Articles :   
 
-[![Omid Nikrah Medium](https://github-readme-medium-recent-article.vercel.app/medium/@4rzumanyan/0)](https://medium.com/@4rzumanyan/0)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@4rzumanyan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@4rzumanyan/0" alt="Recent Article 0">
 
 
 <!--
