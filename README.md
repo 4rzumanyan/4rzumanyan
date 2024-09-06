@@ -46,7 +46,10 @@ I am an Android Developer from Armenia.
 
 ### :bar_chart: Medium Articles :   
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@<rzumanyan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@4rzumanyan/0" alt="Recent article #0"></a>
+[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=4rzumanyan)](https://medium.com/@4rzumanyan)
+
+
+
 
 <!--
 **4rzumanyan/4rzumanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
