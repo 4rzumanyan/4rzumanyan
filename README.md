@@ -40,13 +40,7 @@ I am an Android Developer from Armenia.
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=4rzumanyan&theme=default&hide_border=true&mode=weekly">
   <img src="https://streak-stats.demolab.com?user=4rzumanyan&theme=dark&hide_border=true&mode=weekly&background=0D1117" alt="GitHub Streak">
-</picture>    
-
----
-
-### :pencil: Medium Articles :      
-
-[![Clean Architecture for Android and Not Only](https://git-readme-medium.vercel.app/?username=4rzumanyan&theme=transparent)](https://medium.com/@4rzumanyan/)
+</picture>   
 
 <!--
 **4rzumanyan/4rzumanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
