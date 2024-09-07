@@ -15,7 +15,7 @@ I am an Android Developer from Armenia.
 
 - :seedling: Dedicated to staying updated with the latest trends and advancements in the Android development ecosystem.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and write tech articles.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrant-arz/)
 
