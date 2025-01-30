@@ -6,10 +6,9 @@
 </picture>
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=4rzumanyan&label=Profile%20views&color=0e75b6&style=flat" alt="goodluck3301" /> </p>
 
 ### :man_technologist: About Me :      
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=4rzumanyan&label=Profile%20views&color=0e75b6&style=flat" alt="goodluck3301" /> </p>
 
 I am an Android Developer from Armenia.
 
