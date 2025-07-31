@@ -1,4 +1,3 @@
-<img src="https://camo.githubusercontent.com/3b36acef17b4609173b8168bc873ba4cde444299f6c8ff291661430cd8384cd3/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966" alt="MasterHead" data-canonical-src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="center">
 <picture>
