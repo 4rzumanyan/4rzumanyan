@@ -17,7 +17,7 @@ I am an Android Developer from Armenia.
 
 - :zap: In my free time, I solve problems on LeetCode and write [tech articles](https://medium.com/@4rzumanyan).
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrant-arz/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@4rzumanyan)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=hrant.arz@gmail.com&su=SUBJECT&body=BODY&tf=cm) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrant-arz/) <a href="https://medium.com/@4rzumanyan"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"></picture></a>
 
 ---
 
